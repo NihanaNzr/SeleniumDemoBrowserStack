@@ -85,10 +85,10 @@ To run the project and perform scraping, translation, and data analysis, execute
 ```bash
   python main.py
 ```
-This will scrape articles, translate the titles, analyze repeated words, and save the results in data/output_data.json.
+This will scrape articles, translate the titles, analyze repeated words, and save the results in **data/output_data.json**.
 
 2. **Check the Output**
-   The results of the scraping, translation, and analysis will be saved in the data/output_data.json file. The log of the process will be available in the web_scraper.log file.
+   The results of the scraping, translation, and analysis will be saved in the **data/output_data.json** file. The log of the process will be available in the **web_scraper.log** file.
 
 ## Running Tests on BrowserStack
 
