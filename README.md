@@ -1,4 +1,4 @@
-# Web Scraping and Translation Service
+# Web Scraping and Translation Service - Automation
 
 This project scrapes articles, translates the article titles using the RapidAPI translation service, analyzes the titles for repeated words, and saves the results to a JSON file. Additionally, it provides an automated cross-browser testing environment using BrowserStack.
 
@@ -7,7 +7,7 @@ This project scrapes articles, translates the article titles using the RapidAPI 
 2. [Prerequisites](#prerequisites)
 3. [Installation](#installation)
 4. [Configuration](#configuration)
-5. [Running Tests Locally ](#Running Tests Locally)
+5. [Running Tests Locally ](#Running-Tests-Locally)
 6. [Running Tests on BrowserStack](#running-tests-on-browserstack)
 7. [Project Structure](#project-structure)
 8. [Contributing](#contributing)
