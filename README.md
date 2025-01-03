@@ -122,44 +122,6 @@ data/                   # Directory to store output JSON file
 ├── test_script.py      # Script to run parallel tests on BrowserStack
 └── web_scraper.log     # Log file for tracking process
 ```
-
-## Getting Started
-
-### Prerequisites
-- Python 3.7+
-- Install dependencies using:
-  ```bash
-  pip install -r requirements.txt
-  ```
-
-### Configuration
-1. Set up API keys and other constants in `utils/constants.py`.
-2. Configure BrowserStack credentials in `browserstack.yml`.
-
-### Running the Application
-To execute the main script:
-```bash
-python main.py
-```
-
-### Running Tests
-To run parallel tests on BrowserStack:
-```bash
-python test_script.py
-```
-
-## Features
-- **Web Scraping**: Extracts data from target websites.
-- **Translation**: Translates extracted content into desired languages.
-- **Text Analysis**: Identifies repeated words for insights.
-- **Image Handling**: Downloads and stores images.
-- **JSON Export**: Saves processed data into structured JSON files.
-
-## Logs
-All operations and errors are logged into `web_scraper.log` for easy debugging and monitoring.
-
-
-
 ## License
 This project is licensed under the MIT License.
 
