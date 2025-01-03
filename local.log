@@ -1,0 +1,47 @@
+
+Fri Jan 03 2025 16:12:49:745 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Jan 03 2025 16:12:50:101 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Jan 03 2025 16:12:50:247 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Jan 03 2025 16:15:24:342 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Jan 03 2025 16:15:24:485 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Jan 03 2025 16:15:24:591 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Jan 03 2025 16:18:47:223 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Jan 03 2025 16:18:47:489 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Jan 03 2025 16:18:47:510 GMT+0530 (India Standard Time) -- Received runtime exception: Error: write EPIPE
+    at afterWriteDispatched (internal/stream_base_commons.js:78:25)
+    at writeGeneric (internal/stream_base_commons.js:73:3)
+    at Socket._writeGeneric (net.js:714:5)
+    at Socket._write (net.js:726:8)
+    at doWrite (_stream_writable.js:415:12)
+    at writeOrBuffer (_stream_writable.js:399:5)
+    at Socket.Writable.write (_stream_writable.js:299:11)
+    at bslocal.js:1:12110568
+    at Array.forEach (<anonymous>)
+    at i (bslocal.js:1:12110534)
+Fri Jan 03 2025 16:18:47:510 GMT+0530 (India Standard Time) -- Exiting.
+Fri Jan 03 2025 16:18:47:618 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Jan 03 2025 16:22:54:562 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Jan 03 2025 16:22:54:709 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Jan 03 2025 16:22:54:866 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Jan 03 2025 16:25:10:723 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Jan 03 2025 16:25:10:864 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+Fri Jan 03 2025 16:25:11:188 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
