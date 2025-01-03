@@ -105,12 +105,12 @@ This will scrape articles, translate the titles, analyze repeated words, and sav
 ```plaintext
 article_image/          # Directory to store article images
 data/                   # Directory to store output JSON file
-├── src/
+src/
 │   ├── __init__.py
 │   ├── scraper.py      # Web scraping logic
 │   ├── translator.py   # Translation functionality
 │   ├── analyzer.py     # Text analysis (finding repeated words)
-├── utils/
+utils/
 │   ├── constants.py    # Stores API keys and other constants
 │   ├── downloader.py   # Image downloader utility
 │   ├── logger.py       # Logger setup
