@@ -36,8 +36,8 @@ To run this project locally or on BrowserStack, ensure the following prerequisit
    Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/yourusername/web-scraping-project.git
-   cd web-scraping-project
+   git clone https://github.com/<your-github-username>/<your-repo-name>.git
+   cd <your-repo-name>
    ```
 2. **Install Dependencies:**
    Install all necessary Python packages from requirements.txt:
@@ -63,10 +63,10 @@ This project uses the RapidAPI translation service. To integrate this:
 
 For Windows Command Prompt:
 
-```bash
+  ```bash
   set BROWSERSTACK_USERNAME=your_browserstack_username
   set BROWSERSTACK_ACCESS_KEY=your_browserstack_access_key
-```
+  ```
 For macOS or Linux:
 
 ```bash
