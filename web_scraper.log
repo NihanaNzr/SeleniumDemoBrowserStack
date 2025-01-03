@@ -1590,3 +1590,1252 @@ KeyError: 'os'
 2025-01-03 16:59:56,020 - web_scraper - INFO - Analyzing translated titles...
 2025-01-03 16:59:56,022 - web_scraper - INFO - Saving data to JSON...
 2025-01-03 16:59:56,022 - web_scraper - INFO - Saving data to JSON...
+2025-01-03 17:44:39,435 - web_scraper - INFO - Starting web scraping project...
+2025-01-03 17:44:39,435 - web_scraper - INFO - Starting web scraping project...
+2025-01-03 17:44:49,077 - web_scraper - INFO - Scraping articles locally...
+2025-01-03 17:44:49,077 - web_scraper - INFO - Scraping articles locally...
+2025-01-03 17:45:09,546 - web_scraper - INFO - Translating title: Menos dependencia del gas ruso
+2025-01-03 17:45:09,546 - web_scraper - INFO - Translating title: Menos dependencia del gas ruso
+2025-01-03 17:45:10,875 - web_scraper - INFO - Translation successful: Less dependence on Russian gas
+2025-01-03 17:45:10,875 - web_scraper - INFO - Translation successful: Less dependence on Russian gas
+2025-01-03 17:45:11,008 - web_scraper - INFO - Translated title: Less dependence on Russian gas
+2025-01-03 17:45:11,008 - web_scraper - INFO - Translated title: Less dependence on Russian gas
+2025-01-03 17:45:11,010 - web_scraper - INFO - Translating title: El año de frenar la pesadilla del alquiler
+2025-01-03 17:45:11,010 - web_scraper - INFO - Translating title: El año de frenar la pesadilla del alquiler
+2025-01-03 17:45:11,344 - web_scraper - INFO - Translation successful: The year to stop the rental nightmare
+2025-01-03 17:45:11,344 - web_scraper - INFO - Translation successful: The year to stop the rental nightmare
+2025-01-03 17:45:11,346 - web_scraper - INFO - Translated title: The year to stop the rental nightmare
+2025-01-03 17:45:11,346 - web_scraper - INFO - Translated title: The year to stop the rental nightmare
+2025-01-03 17:45:11,347 - web_scraper - INFO - Translating title: El oro y la insolencia
+2025-01-03 17:45:11,347 - web_scraper - INFO - Translating title: El oro y la insolencia
+2025-01-03 17:45:11,628 - web_scraper - INFO - Translation successful: Gold and insolence
+2025-01-03 17:45:11,628 - web_scraper - INFO - Translation successful: Gold and insolence
+2025-01-03 17:45:11,631 - web_scraper - INFO - Translated title: Gold and insolence
+2025-01-03 17:45:11,631 - web_scraper - INFO - Translated title: Gold and insolence
+2025-01-03 17:45:11,633 - web_scraper - INFO - Translating title: Contra la tristeza burocrática en los trabajos que amamos
+2025-01-03 17:45:11,633 - web_scraper - INFO - Translating title: Contra la tristeza burocrática en los trabajos que amamos
+2025-01-03 17:45:11,920 - web_scraper - INFO - Translation successful: Against bureaucratic sadness in the works we love
+2025-01-03 17:45:11,920 - web_scraper - INFO - Translation successful: Against bureaucratic sadness in the works we love
+2025-01-03 17:45:11,922 - web_scraper - INFO - Translated title: Against bureaucratic sadness in the works we love
+2025-01-03 17:45:11,922 - web_scraper - INFO - Translated title: Against bureaucratic sadness in the works we love
+2025-01-03 17:45:11,923 - web_scraper - INFO - Translating title: ‘Bonanza (La Línea de la Concepción)’
+2025-01-03 17:45:11,923 - web_scraper - INFO - Translating title: ‘Bonanza (La Línea de la Concepción)’
+2025-01-03 17:45:12,232 - web_scraper - INFO - Translation successful: ‘Bonanza (the line of conception)’
+2025-01-03 17:45:12,232 - web_scraper - INFO - Translation successful: ‘Bonanza (the line of conception)’
+2025-01-03 17:45:12,235 - web_scraper - INFO - Translated title: ‘Bonanza (the line of conception)’
+2025-01-03 17:45:12,235 - web_scraper - INFO - Translated title: ‘Bonanza (the line of conception)’
+2025-01-03 17:45:12,326 - web_scraper - INFO - Analyzing translated titles...
+2025-01-03 17:45:12,326 - web_scraper - INFO - Analyzing translated titles...
+2025-01-03 17:45:12,329 - web_scraper - INFO - Saving data to JSON...
+2025-01-03 17:45:12,329 - web_scraper - INFO - Saving data to JSON...
+2025-01-03 18:09:38,564 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,563 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,567 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,566 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,569 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,566 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,567 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,569 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,572 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,569 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,572 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,576 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,572 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,569 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,572 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,572 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,567 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,575 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,575 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,570 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,575 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,573 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,575 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,576 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,598 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Chrome', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': 'isnq4nar8vskjbnsczuzb4jowlyvmwfyyiifzwu0', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'deviceName': 'Samsung Galaxy S22', 'osVersion': 12.0, 'browserName': 'Chrome', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,598 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Chrome', 'browserVersion': 'latest', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': '5s5v5fj5r0l50mxiuuwzyiglh7epndxhqea3suq6', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'os': 'Windows', 'osVersion': 10, 'browserName': 'Chrome', 'browserVersion': 'latest', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,598 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Chrome', 'browserVersion': 'latest', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': '5s5v5fj5r0l50mxiuuwzyiglh7epndxhqea3suq6', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'os': 'Windows', 'osVersion': 10, 'browserName': 'Chrome', 'browserVersion': 'latest', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,598 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Chrome', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': 'isnq4nar8vskjbnsczuzb4jowlyvmwfyyiifzwu0', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'deviceName': 'Samsung Galaxy S22', 'osVersion': 12.0, 'browserName': 'Chrome', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,599 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Firefox', 'browserVersion': 'latest', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': '01vejku35n009mpay95cxlc9yjaiqrsq6h9octkj', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'os': 'Windows', 'osVersion': 10, 'browserName': 'Firefox', 'browserVersion': 'latest', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,599 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Safari', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': 'ctftshb55ccmyxf97xtcvtwoqz5cemllh3un6ghp', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'deviceName': 'iPhone 13', 'osVersion': 15, 'browserName': 'Safari', 'deviceOrientation': 'portrait', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,599 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Firefox', 'browserVersion': 'latest', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': '01vejku35n009mpay95cxlc9yjaiqrsq6h9octkj', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'os': 'Windows', 'osVersion': 10, 'browserName': 'Firefox', 'browserVersion': 'latest', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,599 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Safari', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': 'ctftshb55ccmyxf97xtcvtwoqz5cemllh3un6ghp', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'deviceName': 'iPhone 13', 'osVersion': 15, 'browserName': 'Safari', 'deviceOrientation': 'portrait', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,606 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Chrome', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': 'isnq4nar8vskjbnsczuzb4jowlyvmwfyyiifzwu0', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'deviceName': 'Samsung Galaxy S22', 'osVersion': 12.0, 'browserName': 'Chrome', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,606 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Chrome', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': 'isnq4nar8vskjbnsczuzb4jowlyvmwfyyiifzwu0', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'deviceName': 'Samsung Galaxy S22', 'osVersion': 12.0, 'browserName': 'Chrome', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,607 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Chrome', 'browserVersion': 'latest', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': '5s5v5fj5r0l50mxiuuwzyiglh7epndxhqea3suq6', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'os': 'Windows', 'osVersion': 10, 'browserName': 'Chrome', 'browserVersion': 'latest', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,607 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Chrome', 'browserVersion': 'latest', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': '5s5v5fj5r0l50mxiuuwzyiglh7epndxhqea3suq6', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'os': 'Windows', 'osVersion': 10, 'browserName': 'Chrome', 'browserVersion': 'latest', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,687 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Firefox', 'browserVersion': 'latest', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': '01vejku35n009mpay95cxlc9yjaiqrsq6h9octkj', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'os': 'Windows', 'osVersion': 10, 'browserName': 'Firefox', 'browserVersion': 'latest', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,687 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Firefox', 'browserVersion': 'latest', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': '01vejku35n009mpay95cxlc9yjaiqrsq6h9octkj', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'os': 'Windows', 'osVersion': 10, 'browserName': 'Firefox', 'browserVersion': 'latest', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,724 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Chrome', 'browserVersion': 'latest', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': '5s5v5fj5r0l50mxiuuwzyiglh7epndxhqea3suq6', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'os': 'Windows', 'osVersion': 10, 'browserName': 'Chrome', 'browserVersion': 'latest', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,724 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Chrome', 'browserVersion': 'latest', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': '5s5v5fj5r0l50mxiuuwzyiglh7epndxhqea3suq6', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'os': 'Windows', 'osVersion': 10, 'browserName': 'Chrome', 'browserVersion': 'latest', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,728 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Safari', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': 'ctftshb55ccmyxf97xtcvtwoqz5cemllh3un6ghp', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'deviceName': 'iPhone 13', 'osVersion': 15, 'browserName': 'Safari', 'deviceOrientation': 'portrait', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,728 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Chrome', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': 'isnq4nar8vskjbnsczuzb4jowlyvmwfyyiifzwu0', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'deviceName': 'Samsung Galaxy S22', 'osVersion': 12.0, 'browserName': 'Chrome', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,728 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Safari', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': 'ctftshb55ccmyxf97xtcvtwoqz5cemllh3un6ghp', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'deviceName': 'iPhone 13', 'osVersion': 15, 'browserName': 'Safari', 'deviceOrientation': 'portrait', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+eW3C': True}}
+2025-01-03 18:09:38,728 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Firefox', 'browserVersion': 'latest', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': '01vejku35n009mpay95cxlc9yjaiqrsq6h9octkj', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'os': 'Windows', 'osVersion': 10, 'browserName': 'Firefox', 'browserVersion': 'latest', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,734 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Chrome', 'browserVersion': 'latest', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': '5s5v5fj5r0l50mxiuuwzyiglh7epndxhqea3suq6', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'os': 'Windows', 'osVersion': 10, 'browserName': 'Chrome', 'browserVersion': 'latest', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,734 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Chrome', 'browserVersion': 'latest', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': '5s5v5fj5r0l50mxiuuwzyiglh7epndxhqea3suq6', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'os': 'Windows', 'osVersion': 10, 'browserName': 'Chrome', 'browserVersion': 'latest', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,736 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Safari', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': 'ctftshb55ccmyxf97xtcvtwoqz5cemllh3un6ghp', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'deviceName': 'iPhone 13', 'osVersion': 15, 'browserName': 'Safari', 'deviceOrientation': 'portrait', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,736 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Safari', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': 'ctftshb55ccmyxf97xtcvtwoqz5cemllh3un6ghp', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'deviceName': 'iPhone 13', 'osVersion': 15, 'browserName': 'Safari', 'deviceOrientation': 'portrait', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,756 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Chrome', 'browserVersion': 'latest', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': '5s5v5fj5r0l50mxiuuwzyiglh7epndxhqea3suq6', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'os': 'Windows', 'osVersion': 10, 'browserName': 'Chrome', 'browserVersion': 'latest', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,756 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Chrome', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': 'isnq4nar8vskjbnsczuzb4jowlyvmwfyyiifzwu0', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'deviceName': 'Samsung Galaxy S22', 'osVersion': 12.0, 'browserName': 'Chrome', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,756 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Firefox', 'browserVersion': 'latest', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': '01vejku35n009mpay95cxlc9yjaiqrsq6h9octkj', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'os': 'Windows', 'osVersion': 10, 'browserName': 'Firefox', 'browserVersion': 'latest', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,756 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Firefox', 'browserVersion': 'latest', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': '01vejku35n009mpay95cxlc9yjaiqrsq6h9octkj', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'os': 'Windows', 'osVersion': 10, 'browserName': 'Firefox', 'browserVersion': 'latest', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,757 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Safari', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': 'ctftshb55ccmyxf97xtcvtwoqz5cemllh3un6ghp', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'deviceName': 'iPhone 13', 'osVersion': 15, 'browserName': 'Safari', 'deviceOrientation': 'portrait', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+3C': True}}
+2025-01-03 18:09:38,757 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Safari', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': 'ctftshb55ccmyxf97xtcvtwoqz5cemllh3un6ghp', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'deviceName': 'iPhone 13', 'osVersion': 15, 'browserName': 'Safari', 'deviceOrientation': 'portrait', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,765 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Chrome', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': 'isnq4nar8vskjbnsczuzb4jowlyvmwfyyiifzwu0', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'deviceName': 'Samsung Galaxy S22', 'osVersion': 12.0, 'browserName': 'Chrome', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,765 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Chrome', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': 'isnq4nar8vskjbnsczuzb4jowlyvmwfyyiifzwu0', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'deviceName': 'Samsung Galaxy S22', 'osVersion': 12.0, 'browserName': 'Chrome', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,771 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Safari', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': 'ctftshb55ccmyxf97xtcvtwoqz5cemllh3un6ghp', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'deviceName': 'iPhone 13', 'osVersion': 15, 'browserName': 'Safari', 'deviceOrientation': 'portrait', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,771 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Safari', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': 'ctftshb55ccmyxf97xtcvtwoqz5cemllh3un6ghp', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'deviceName': 'iPhone 13', 'osVersion': 15, 'browserName': 'Safari', 'deviceOrientation': 'portrait', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,775 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Firefox', 'browserVersion': 'latest', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': '01vejku35n009mpay95cxlc9yjaiqrsq6h9octkj', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'os': 'Windows', 'osVersion': 10, 'browserName': 'Firefox', 'browserVersion': 'latest', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,775 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Firefox', 'browserVersion': 'latest', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': '01vejku35n009mpay95cxlc9yjaiqrsq6h9octkj', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'os': 'Windows', 'osVersion': 10, 'browserName': 'Firefox', 'browserVersion': 'latest', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,780 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,780 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,780 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,798 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,811 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,802 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,812 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,798 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,798 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,780 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,829 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,802 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,811 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,828 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,812 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,828 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,829 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,842 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,842 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,851 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,842 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,829 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,852 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,822 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,798 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,846 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,842 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,851 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,852 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,840 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,822 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,859 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,840 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,859 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,860 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,829 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,939 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,846 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,860 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,939 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:38,978 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,981 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,981 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,984 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,984 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,986 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,986 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,989 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,989 - web_scraper - DEBUG - Using hub url: https://hub-aps.browserstack.com/wd/hub
+2025-01-03 18:09:38,996 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Safari', 'browserVersion': 'latest', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': 'vmi4rv7pp5uwpbucnxdrnp97j9okn5pzuia4ydno', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'os': 'OS X', 'osVersion': 'Monterey', 'browserName': 'Safari', 'browserVersion': 'latest', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:38,996 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Safari', 'browserVersion': 'latest', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': 'vmi4rv7pp5uwpbucnxdrnp97j9okn5pzuia4ydno', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'os': 'OS X', 'osVersion': 'Monterey', 'browserName': 'Safari', 'browserVersion': 'latest', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:39,003 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Safari', 'browserVersion': 'latest', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': 'vmi4rv7pp5uwpbucnxdrnp97j9okn5pzuia4ydno', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'os': 'OS X', 'osVersion': 'Monterey', 'browserName': 'Safari', 'browserVersion': 'latest', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:39,003 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Safari', 'browserVersion': 'latest', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': 'vmi4rv7pp5uwpbucnxdrnp97j9okn5pzuia4ydno', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'os': 'OS X', 'osVersion': 'Monterey', 'browserName': 'Safari', 'browserVersion': 'latest', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:39,011 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Safari', 'browserVersion': 'latest', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': 'vmi4rv7pp5uwpbucnxdrnp97j9okn5pzuia4ydno', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'os': 'OS X', 'osVersion': 'Monterey', 'browserName': 'Safari', 'browserVersion': 'latest', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:39,011 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Safari', 'browserVersion': 'latest', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': 'vmi4rv7pp5uwpbucnxdrnp97j9okn5pzuia4ydno', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'os': 'OS X', 'osVersion': 'Monterey', 'browserName': 'Safari', 'browserVersion': 'latest', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:39,020 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Safari', 'browserVersion': 'latest', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': 'vmi4rv7pp5uwpbucnxdrnp97j9okn5pzuia4ydno', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'os': 'OS X', 'osVersion': 'Monterey', 'browserName': 'Safari', 'browserVersion': 'latest', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:39,020 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Safari', 'browserVersion': 'latest', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': 'vmi4rv7pp5uwpbucnxdrnp97j9okn5pzuia4ydno', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'os': 'OS X', 'osVersion': 'Monterey', 'browserName': 'Safari', 'browserVersion': 'latest', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:39,028 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Safari', 'browserVersion': 'latest', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': 'vmi4rv7pp5uwpbucnxdrnp97j9okn5pzuia4ydno', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'os': 'OS X', 'osVersion': 'Monterey', 'browserName': 'Safari', 'browserVersion': 'latest', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:39,028 - web_scraper - DEBUG - Parsed config file: {'browserName': 'Safari', 'browserVersion': 'latest', 'bstack:options': {'userName': 'nihananizar_IprmoN', 'accessKey': 'uKyhQeYDMaPxiyFP9fQY', 'buildName': 'bstack-demo', 'buildIdentifier': '6', 'projectName': 'BrowserStack Sample', 'debug': True, 'networkLogs': True, 'consoleLogs': 'info', 'browserstackSDK': 'python-pythonagent/1.23.1', 'testhubBuildUuid': 'vmi4rv7pp5uwpbucnxdrnp97j9okn5pzuia4ydno', 'buildProductMap': {'observability': False, 'accessibility': False, 'percy': False, 'automate': True, 'app_automate': False, 'turboscale': False}, 'os': 'OS X', 'osVersion': 'Monterey', 'browserName': 'Safari', 'browserVersion': 'latest', 'hostName': 'NIHANANIZAR', 'useW3C': True}}
+2025-01-03 18:09:39,045 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:39,045 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:39,054 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:39,073 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:39,054 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:39,073 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:39,110 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:39,124 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:39,110 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:39,124 - web_scraper - INFO - Completed setup!
+2025-01-03 18:09:45,235 - web_scraper - ERROR - Error occurred during BrowserStack test: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+Traceback (most recent call last):
+  File "<string>", line 22, in run_browserstack_test
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1382, in bstack11l1l11l11_opy_
+    bstack1ll11ll11_opy_(self, command_executor=command_executor,
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              options=options, keep_alive=keep_alive, file_detector=file_detector, *args, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1309, in bstack1l1111l111_opy_
+    response = bstack1l1111ll1l_opy_(self, driver_command, *args, **kwargs)
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+
+2025-01-03 18:09:45,247 - web_scraper - ERROR - Error occurred during BrowserStack test: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+Traceback (most recent call last):
+  File "<string>", line 22, in run_browserstack_test
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1382, in bstack11l1l11l11_opy_
+    bstack1ll11ll11_opy_(self, command_executor=command_executor,
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              options=options, keep_alive=keep_alive, file_detector=file_detector, *args, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1309, in bstack1l1111l111_opy_
+    response = bstack1l1111ll1l_opy_(self, driver_command, *args, **kwargs)
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+
+2025-01-03 18:09:45,232 - web_scraper - ERROR - Error occurred during BrowserStack test: Message: [BROWSERSTACK_INCOMPATIBLE_ANDROID_VERSION] We support W3C enabled Appium sessions only on Android 5.0 & above devices. For more info, refer to  https://www.browserstack.com/automate/capabilities?tag=selenium-4 or reach out to support.
+Traceback (most recent call last):
+  File "<string>", line 22, in run_browserstack_test
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1382, in bstack11l1l11l11_opy_
+    bstack1ll11ll11_opy_(self, command_executor=command_executor,
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              options=options, keep_alive=keep_alive, file_detector=file_detector, *args, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1309, in bstack1l1111l111_opy_
+    response = bstack1l1111ll1l_opy_(self, driver_command, *args, **kwargs)
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: [BROWSERSTACK_INCOMPATIBLE_ANDROID_VERSION] We support W3C enabled Appium sessions only on Android 5.0 & above devices. For more info, refer to  https://www.browserstack.com/automate/capabilities?tag=selenium-4 or reach out to support.
+
+2025-01-03 18:09:45,247 - web_scraper - ERROR - Error occurred during BrowserStack test: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+Traceback (most recent call last):
+  File "<string>", line 22, in run_browserstack_test
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1382, in bstack11l1l11l11_opy_
+    bstack1ll11ll11_opy_(self, command_executor=command_executor,
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              options=options, keep_alive=keep_alive, file_detector=file_detector, *args, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1309, in bstack1l1111l111_opy_
+    response = bstack1l1111ll1l_opy_(self, driver_command, *args, **kwargs)
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+
+2025-01-03 18:09:45,232 - web_scraper - ERROR - Error occurred during BrowserStack test: Message: [BROWSERSTACK_INCOMPATIBLE_ANDROID_VERSION] We support W3C enabled Appium sessions only on Android 5.0 & above devices. For more info, refer to  https://www.browserstack.com/automate/capabilities?tag=selenium-4 or reach out to support.
+Traceback (most recent call last):
+  File "<string>", line 22, in run_browserstack_test
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1382, in bstack11l1l11l11_opy_
+    bstack1ll11ll11_opy_(self, command_executor=command_executor,
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              options=options, keep_alive=keep_alive, file_detector=file_detector, *args, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1309, in bstack1l1111l111_opy_
+    response = bstack1l1111ll1l_opy_(self, driver_command, *args, **kwargs)
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: [BROWSERSTACK_INCOMPATIBLE_ANDROID_VERSION] We support W3C enabled Appium sessions only on Android 5.0 & above devices. For more info, refer to  https://www.browserstack.com/automate/capabilities?tag=selenium-4 or reach out to support.
+
+2025-01-03 18:09:45,235 - web_scraper - ERROR - Error occurred during BrowserStack test: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+Traceback (most recent call last):
+  File "<string>", line 22, in run_browserstack_test
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1382, in bstack11l1l11l11_opy_
+    bstack1ll11ll11_opy_(self, command_executor=command_executor,
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              options=options, keep_alive=keep_alive, file_detector=file_detector, *args, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1309, in bstack1l1111l111_opy_
+    response = bstack1l1111ll1l_opy_(self, driver_command, *args, **kwargs)
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+
+2025-01-03 18:09:45,317 - web_scraper - ERROR - Error occurred during BrowserStack test: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+Traceback (most recent call last):
+  File "<string>", line 22, in run_browserstack_test
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1382, in bstack11l1l11l11_opy_
+    bstack1ll11ll11_opy_(self, command_executor=command_executor,
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              options=options, keep_alive=keep_alive, file_detector=file_detector, *args, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1309, in bstack1l1111l111_opy_
+    response = bstack1l1111ll1l_opy_(self, driver_command, *args, **kwargs)
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+
+2025-01-03 18:09:45,317 - web_scraper - ERROR - Error occurred during BrowserStack test: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+Traceback (most recent call last):
+  File "<string>", line 22, in run_browserstack_test
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1382, in bstack11l1l11l11_opy_
+    bstack1ll11ll11_opy_(self, command_executor=command_executor,
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              options=options, keep_alive=keep_alive, file_detector=file_detector, *args, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1309, in bstack1l1111l111_opy_
+    response = bstack1l1111ll1l_opy_(self, driver_command, *args, **kwargs)
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+
+2025-01-03 18:09:45,425 - web_scraper - ERROR - Error occurred during BrowserStack test: Message: [BROWSERSTACK_INCOMPATIBLE_ANDROID_VERSION] We support W3C enabled Appium sessions only on Android 5.0 & above devices. For more info, refer to  https://www.browserstack.com/automate/capabilities?tag=selenium-4 or reach out to support.
+Traceback (most recent call last):
+  File "<string>", line 22, in run_browserstack_test
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1382, in bstack11l1l11l11_opy_
+    bstack1ll11ll11_opy_(self, command_executor=command_executor,
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              options=options, keep_alive=keep_alive, file_detector=file_detector, *args, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1309, in bstack1l1111l111_opy_
+    response = bstack1l1111ll1l_opy_(self, driver_command, *args, **kwargs)
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: [BROWSERSTACK_INCOMPATIBLE_ANDROID_VERSION] We support W3C enabled Appium sessions only on Android 5.0 & above devices. For more info, refer to  https://www.browserstack.com/automate/capabilities?tag=selenium-4 or reach out to support.
+
+2025-01-03 18:09:45,425 - web_scraper - ERROR - Error occurred during BrowserStack test: Message: [BROWSERSTACK_INCOMPATIBLE_ANDROID_VERSION] We support W3C enabled Appium sessions only on Android 5.0 & above devices. For more info, refer to  https://www.browserstack.com/automate/capabilities?tag=selenium-4 or reach out to support.
+Traceback (most recent call last):
+  File "<string>", line 22, in run_browserstack_test
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1382, in bstack11l1l11l11_opy_
+    bstack1ll11ll11_opy_(self, command_executor=command_executor,
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              options=options, keep_alive=keep_alive, file_detector=file_detector, *args, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1309, in bstack1l1111l111_opy_
+    response = bstack1l1111ll1l_opy_(self, driver_command, *args, **kwargs)
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: [BROWSERSTACK_INCOMPATIBLE_ANDROID_VERSION] We support W3C enabled Appium sessions only on Android 5.0 & above devices. For more info, refer to  https://www.browserstack.com/automate/capabilities?tag=selenium-4 or reach out to support.
+
+2025-01-03 18:09:45,473 - web_scraper - ERROR - Error occurred during BrowserStack test: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+Traceback (most recent call last):
+  File "<string>", line 22, in run_browserstack_test
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1382, in bstack11l1l11l11_opy_
+    bstack1ll11ll11_opy_(self, command_executor=command_executor,
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              options=options, keep_alive=keep_alive, file_detector=file_detector, *args, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1309, in bstack1l1111l111_opy_
+    response = bstack1l1111ll1l_opy_(self, driver_command, *args, **kwargs)
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+
+2025-01-03 18:09:45,473 - web_scraper - ERROR - Error occurred during BrowserStack test: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+Traceback (most recent call last):
+  File "<string>", line 22, in run_browserstack_test
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1382, in bstack11l1l11l11_opy_
+    bstack1ll11ll11_opy_(self, command_executor=command_executor,
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              options=options, keep_alive=keep_alive, file_detector=file_detector, *args, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1309, in bstack1l1111l111_opy_
+    response = bstack1l1111ll1l_opy_(self, driver_command, *args, **kwargs)
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+
+2025-01-03 18:09:45,526 - web_scraper - ERROR - Error occurred during BrowserStack test: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+Traceback (most recent call last):
+  File "<string>", line 22, in run_browserstack_test
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1382, in bstack11l1l11l11_opy_
+    bstack1ll11ll11_opy_(self, command_executor=command_executor,
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              options=options, keep_alive=keep_alive, file_detector=file_detector, *args, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1309, in bstack1l1111l111_opy_
+    response = bstack1l1111ll1l_opy_(self, driver_command, *args, **kwargs)
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+
+2025-01-03 18:09:45,526 - web_scraper - ERROR - Error occurred during BrowserStack test: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+Traceback (most recent call last):
+  File "<string>", line 22, in run_browserstack_test
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1382, in bstack11l1l11l11_opy_
+    bstack1ll11ll11_opy_(self, command_executor=command_executor,
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              options=options, keep_alive=keep_alive, file_detector=file_detector, *args, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1309, in bstack1l1111l111_opy_
+    response = bstack1l1111ll1l_opy_(self, driver_command, *args, **kwargs)
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+
+2025-01-03 18:09:45,623 - web_scraper - ERROR - Error occurred during BrowserStack test: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+Traceback (most recent call last):
+  File "<string>", line 22, in run_browserstack_test
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1382, in bstack11l1l11l11_opy_
+    bstack1ll11ll11_opy_(self, command_executor=command_executor,
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              options=options, keep_alive=keep_alive, file_detector=file_detector, *args, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1309, in bstack1l1111l111_opy_
+    response = bstack1l1111ll1l_opy_(self, driver_command, *args, **kwargs)
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+
+2025-01-03 18:09:45,623 - web_scraper - ERROR - Error occurred during BrowserStack test: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+Traceback (most recent call last):
+  File "<string>", line 22, in run_browserstack_test
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1382, in bstack11l1l11l11_opy_
+    bstack1ll11ll11_opy_(self, command_executor=command_executor,
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              options=options, keep_alive=keep_alive, file_detector=file_detector, *args, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1309, in bstack1l1111l111_opy_
+    response = bstack1l1111ll1l_opy_(self, driver_command, *args, **kwargs)
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+
+2025-01-03 18:09:45,709 - web_scraper - ERROR - Error occurred during BrowserStack test: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+Traceback (most recent call last):
+  File "<string>", line 22, in run_browserstack_test
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1382, in bstack11l1l11l11_opy_
+    bstack1ll11ll11_opy_(self, command_executor=command_executor,
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              options=options, keep_alive=keep_alive, file_detector=file_detector, *args, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1309, in bstack1l1111l111_opy_
+    response = bstack1l1111ll1l_opy_(self, driver_command, *args, **kwargs)
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+
+2025-01-03 18:09:45,710 - web_scraper - ERROR - Error occurred during BrowserStack test: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+Traceback (most recent call last):
+  File "<string>", line 22, in run_browserstack_test
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1382, in bstack11l1l11l11_opy_
+    bstack1ll11ll11_opy_(self, command_executor=command_executor,
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              options=options, keep_alive=keep_alive, file_detector=file_detector, *args, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1309, in bstack1l1111l111_opy_
+    response = bstack1l1111ll1l_opy_(self, driver_command, *args, **kwargs)
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+
+2025-01-03 18:09:45,703 - web_scraper - ERROR - Error occurred during BrowserStack test: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+Traceback (most recent call last):
+  File "<string>", line 22, in run_browserstack_test
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1382, in bstack11l1l11l11_opy_
+    bstack1ll11ll11_opy_(self, command_executor=command_executor,
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              options=options, keep_alive=keep_alive, file_detector=file_detector, *args, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1309, in bstack1l1111l111_opy_
+    response = bstack1l1111ll1l_opy_(self, driver_command, *args, **kwargs)
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+
+2025-01-03 18:09:45,709 - web_scraper - ERROR - Error occurred during BrowserStack test: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+Traceback (most recent call last):
+  File "<string>", line 22, in run_browserstack_test
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1382, in bstack11l1l11l11_opy_
+    bstack1ll11ll11_opy_(self, command_executor=command_executor,
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              options=options, keep_alive=keep_alive, file_detector=file_detector, *args, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1309, in bstack1l1111l111_opy_
+    response = bstack1l1111ll1l_opy_(self, driver_command, *args, **kwargs)
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+
+2025-01-03 18:09:45,710 - web_scraper - ERROR - Error occurred during BrowserStack test: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+Traceback (most recent call last):
+  File "<string>", line 22, in run_browserstack_test
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1382, in bstack11l1l11l11_opy_
+    bstack1ll11ll11_opy_(self, command_executor=command_executor,
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              options=options, keep_alive=keep_alive, file_detector=file_detector, *args, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1309, in bstack1l1111l111_opy_
+    response = bstack1l1111ll1l_opy_(self, driver_command, *args, **kwargs)
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+
+2025-01-03 18:09:45,703 - web_scraper - ERROR - Error occurred during BrowserStack test: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+Traceback (most recent call last):
+  File "<string>", line 22, in run_browserstack_test
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1382, in bstack11l1l11l11_opy_
+    bstack1ll11ll11_opy_(self, command_executor=command_executor,
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              options=options, keep_alive=keep_alive, file_detector=file_detector, *args, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1309, in bstack1l1111l111_opy_
+    response = bstack1l1111ll1l_opy_(self, driver_command, *args, **kwargs)
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+
+2025-01-03 18:09:45,710 - web_scraper - ERROR - Error occurred during BrowserStack test: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+Traceback (most recent call last):
+  File "<string>", line 22, in run_browserstack_test
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1382, in bstack11l1l11l11_opy_
+    bstack1ll11ll11_opy_(self, command_executor=command_executor,
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              options=options, keep_alive=keep_alive, file_detector=file_detector, *args, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1309, in bstack1l1111l111_opy_
+    response = bstack1l1111ll1l_opy_(self, driver_command, *args, **kwargs)
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+
+2025-01-03 18:09:45,771 - web_scraper - ERROR - Error occurred during BrowserStack test: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+Traceback (most recent call last):
+  File "<string>", line 22, in run_browserstack_test
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1382, in bstack11l1l11l11_opy_
+    bstack1ll11ll11_opy_(self, command_executor=command_executor,
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              options=options, keep_alive=keep_alive, file_detector=file_detector, *args, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1309, in bstack1l1111l111_opy_
+    response = bstack1l1111ll1l_opy_(self, driver_command, *args, **kwargs)
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+
+2025-01-03 18:09:45,710 - web_scraper - ERROR - Error occurred during BrowserStack test: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+Traceback (most recent call last):
+  File "<string>", line 22, in run_browserstack_test
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1382, in bstack11l1l11l11_opy_
+    bstack1ll11ll11_opy_(self, command_executor=command_executor,
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              options=options, keep_alive=keep_alive, file_detector=file_detector, *args, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1309, in bstack1l1111l111_opy_
+    response = bstack1l1111ll1l_opy_(self, driver_command, *args, **kwargs)
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+
+2025-01-03 18:09:45,771 - web_scraper - ERROR - Error occurred during BrowserStack test: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+Traceback (most recent call last):
+  File "<string>", line 22, in run_browserstack_test
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1382, in bstack11l1l11l11_opy_
+    bstack1ll11ll11_opy_(self, command_executor=command_executor,
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              options=options, keep_alive=keep_alive, file_detector=file_detector, *args, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1309, in bstack1l1111l111_opy_
+    response = bstack1l1111ll1l_opy_(self, driver_command, *args, **kwargs)
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+
+2025-01-03 18:09:45,827 - web_scraper - ERROR - Error occurred during BrowserStack test: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+Traceback (most recent call last):
+  File "<string>", line 22, in run_browserstack_test
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1382, in bstack11l1l11l11_opy_
+    bstack1ll11ll11_opy_(self, command_executor=command_executor,
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              options=options, keep_alive=keep_alive, file_detector=file_detector, *args, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1309, in bstack1l1111l111_opy_
+    response = bstack1l1111ll1l_opy_(self, driver_command, *args, **kwargs)
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+
+2025-01-03 18:09:45,805 - web_scraper - ERROR - Error occurred during BrowserStack test: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+Traceback (most recent call last):
+  File "<string>", line 22, in run_browserstack_test
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1382, in bstack11l1l11l11_opy_
+    bstack1ll11ll11_opy_(self, command_executor=command_executor,
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              options=options, keep_alive=keep_alive, file_detector=file_detector, *args, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1309, in bstack1l1111l111_opy_
+    response = bstack1l1111ll1l_opy_(self, driver_command, *args, **kwargs)
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+
+2025-01-03 18:09:45,827 - web_scraper - ERROR - Error occurred during BrowserStack test: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+Traceback (most recent call last):
+  File "<string>", line 22, in run_browserstack_test
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1382, in bstack11l1l11l11_opy_
+    bstack1ll11ll11_opy_(self, command_executor=command_executor,
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              options=options, keep_alive=keep_alive, file_detector=file_detector, *args, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1309, in bstack1l1111l111_opy_
+    response = bstack1l1111ll1l_opy_(self, driver_command, *args, **kwargs)
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+
+2025-01-03 18:09:45,805 - web_scraper - ERROR - Error occurred during BrowserStack test: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+Traceback (most recent call last):
+  File "<string>", line 22, in run_browserstack_test
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1382, in bstack11l1l11l11_opy_
+    bstack1ll11ll11_opy_(self, command_executor=command_executor,
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              options=options, keep_alive=keep_alive, file_detector=file_detector, *args, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\browserstack_sdk\__init__.py", line 1309, in bstack1l1111l111_opy_
+    response = bstack1l1111ll1l_opy_(self, driver_command, *args, **kwargs)
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\SeleniumDemoBrowserstack\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: [BROWSERSTACK_QUEUE_SIZE_EXCEEDED] All parallel tests are currently in use, and the number of sessions have exceeded the queue limit. Please wait to finish or upgrade your plan to add more sessions
+
+2025-01-03 18:09:49,870 - web_scraper - DEBUG - Hub url changed to the optimal hub: hub-aps.browserstack.com
+2025-01-03 18:09:49,870 - web_scraper - DEBUG - Hub url changed to the optimal hub: hub-aps.browserstack.com
+2025-01-03 18:09:49,871 - web_scraper - DEBUG - Session started with id: f8cfc068672d2a04b1187e7b7b513fd56d1871b6
+2025-01-03 18:09:49,871 - web_scraper - DEBUG - Session started with id: f8cfc068672d2a04b1187e7b7b513fd56d1871b6
+2025-01-03 18:09:49,872 - web_scraper - INFO - Scraping articles on Windows Firefox...
+2025-01-03 18:09:49,872 - web_scraper - INFO - Scraping articles on Windows Firefox...
+2025-01-03 18:09:50,237 - web_scraper - DEBUG - Hub url changed to the optimal hub: hub-aps.browserstack.com
+2025-01-03 18:09:50,237 - web_scraper - DEBUG - Hub url changed to the optimal hub: hub-aps.browserstack.com
+2025-01-03 18:09:50,238 - web_scraper - DEBUG - Session started with id: 721013e97b55337986902b6a97d7ddec2ec21c7f
+2025-01-03 18:09:50,238 - web_scraper - DEBUG - Session started with id: 721013e97b55337986902b6a97d7ddec2ec21c7f
+2025-01-03 18:09:50,239 - web_scraper - INFO - Scraping articles on OS X Safari...
+2025-01-03 18:09:50,239 - web_scraper - INFO - Scraping articles on OS X Safari...
+2025-01-03 18:09:51,721 - web_scraper - DEBUG - Hub url changed to the optimal hub: hub-aps.browserstack.com
+2025-01-03 18:09:51,721 - web_scraper - DEBUG - Hub url changed to the optimal hub: hub-aps.browserstack.com
+2025-01-03 18:09:51,723 - web_scraper - DEBUG - Session started with id: 8b09a840712d50615c126b7f19385bf79872c71b
+2025-01-03 18:09:51,723 - web_scraper - DEBUG - Session started with id: 8b09a840712d50615c126b7f19385bf79872c71b
+2025-01-03 18:09:51,724 - web_scraper - INFO - Scraping articles on Windows Firefox...
+2025-01-03 18:09:51,724 - web_scraper - INFO - Scraping articles on Windows Firefox...
+2025-01-03 18:09:56,068 - web_scraper - DEBUG - Hub url changed to the optimal hub: hub-aps.browserstack.com
+2025-01-03 18:09:56,068 - web_scraper - DEBUG - Hub url changed to the optimal hub: hub-aps.browserstack.com
+2025-01-03 18:09:56,070 - web_scraper - DEBUG - Session started with id: 20ec58dc1f6012e6f39d176b4010931d14f29f64
+2025-01-03 18:09:56,070 - web_scraper - DEBUG - Session started with id: 20ec58dc1f6012e6f39d176b4010931d14f29f64
+2025-01-03 18:09:56,071 - web_scraper - INFO - Scraping articles on OS X Safari...
+2025-01-03 18:09:56,071 - web_scraper - INFO - Scraping articles on OS X Safari...
+2025-01-03 18:10:02,651 - web_scraper - DEBUG - Hub url changed to the optimal hub: hub-aps.browserstack.com
+2025-01-03 18:10:02,651 - web_scraper - DEBUG - Hub url changed to the optimal hub: hub-aps.browserstack.com
+2025-01-03 18:10:02,653 - web_scraper - DEBUG - Session started with id: ae9cc521aad8c87ca34498a12add18f37b79218b
+2025-01-03 18:10:02,653 - web_scraper - DEBUG - Session started with id: ae9cc521aad8c87ca34498a12add18f37b79218b
+2025-01-03 18:10:02,653 - web_scraper - INFO - Scraping articles on OS X Safari...
+2025-01-03 18:10:02,653 - web_scraper - INFO - Scraping articles on OS X Safari...
+2025-01-03 18:10:18,117 - web_scraper - INFO - Translating title: Menos dependencia del gas ruso
+2025-01-03 18:10:18,117 - web_scraper - INFO - Translating title: Menos dependencia del gas ruso
+2025-01-03 18:10:18,251 - web_scraper - INFO - Translating title: Menos dependencia del gas ruso
+2025-01-03 18:10:18,251 - web_scraper - INFO - Translating title: Menos dependencia del gas ruso
+2025-01-03 18:10:18,744 - web_scraper - ERROR - Rate limit exceeded. Retrying in 5 seconds...
+2025-01-03 18:10:18,744 - web_scraper - ERROR - Rate limit exceeded. Retrying in 5 seconds...
+2025-01-03 18:10:19,479 - web_scraper - INFO - Translating title: Menos dependencia del gas ruso
+2025-01-03 18:10:19,479 - web_scraper - INFO - Translating title: Menos dependencia del gas ruso
+2025-01-03 18:10:19,592 - web_scraper - INFO - Translation successful: Less dependence on Russian gas
+2025-01-03 18:10:19,592 - web_scraper - INFO - Translation successful: Less dependence on Russian gas
+2025-01-03 18:10:19,594 - web_scraper - INFO - Translated title: Less dependence on Russian gas
+2025-01-03 18:10:19,594 - web_scraper - INFO - Translated title: Less dependence on Russian gas
+2025-01-03 18:10:19,595 - web_scraper - INFO - Translating title: El año de frenar la pesadilla del alquiler
+2025-01-03 18:10:19,595 - web_scraper - INFO - Translating title: El año de frenar la pesadilla del alquiler
+2025-01-03 18:10:19,801 - web_scraper - INFO - Translation successful: Less dependence on Russian gas
+2025-01-03 18:10:19,801 - web_scraper - INFO - Translation successful: Less dependence on Russian gas
+2025-01-03 18:10:19,805 - web_scraper - INFO - Translated title: Less dependence on Russian gas
+2025-01-03 18:10:19,805 - web_scraper - INFO - Translated title: Less dependence on Russian gas
+2025-01-03 18:10:19,807 - web_scraper - INFO - Translating title: El año de frenar la pesadilla del alquiler
+2025-01-03 18:10:19,807 - web_scraper - INFO - Translating title: El año de frenar la pesadilla del alquiler
+2025-01-03 18:10:19,902 - web_scraper - INFO - Translation successful: The year to stop the rental nightmare
+2025-01-03 18:10:19,902 - web_scraper - INFO - Translation successful: The year to stop the rental nightmare
+2025-01-03 18:10:19,906 - web_scraper - INFO - Translated title: The year to stop the rental nightmare
+2025-01-03 18:10:19,906 - web_scraper - INFO - Translated title: The year to stop the rental nightmare
+2025-01-03 18:10:19,908 - web_scraper - INFO - Translating title: El oro y la insolencia
+2025-01-03 18:10:19,908 - web_scraper - INFO - Translating title: El oro y la insolencia
+2025-01-03 18:10:20,093 - web_scraper - INFO - Translation successful: The year to stop the rental nightmare
+2025-01-03 18:10:20,093 - web_scraper - INFO - Translation successful: The year to stop the rental nightmare
+2025-01-03 18:10:20,095 - web_scraper - INFO - Translated title: The year to stop the rental nightmare
+2025-01-03 18:10:20,095 - web_scraper - INFO - Translated title: The year to stop the rental nightmare
+2025-01-03 18:10:20,097 - web_scraper - INFO - Translating title: El oro y la insolencia
+2025-01-03 18:10:20,097 - web_scraper - INFO - Translating title: El oro y la insolencia
+2025-01-03 18:10:20,187 - web_scraper - INFO - Translation successful: Gold and insolence
+2025-01-03 18:10:20,187 - web_scraper - INFO - Translation successful: Gold and insolence
+2025-01-03 18:10:20,189 - web_scraper - INFO - Translated title: Gold and insolence
+2025-01-03 18:10:20,189 - web_scraper - INFO - Translated title: Gold and insolence
+2025-01-03 18:10:20,190 - web_scraper - INFO - Translating title: Contra la tristeza burocrática en los trabajos que amamos
+2025-01-03 18:10:20,190 - web_scraper - INFO - Translating title: Contra la tristeza burocrática en los trabajos que amamos
+2025-01-03 18:10:20,426 - web_scraper - INFO - Translation successful: Gold and insolence
+2025-01-03 18:10:20,426 - web_scraper - INFO - Translation successful: Gold and insolence
+2025-01-03 18:10:20,429 - web_scraper - INFO - Translated title: Gold and insolence
+2025-01-03 18:10:20,429 - web_scraper - INFO - Translated title: Gold and insolence
+2025-01-03 18:10:20,432 - web_scraper - INFO - Translating title: Contra la tristeza burocrática en los trabajos que amamos
+2025-01-03 18:10:20,432 - web_scraper - INFO - Translating title: Contra la tristeza burocrática en los trabajos que amamos
+2025-01-03 18:10:20,519 - web_scraper - INFO - Translation successful: Against bureaucratic sadness in the works we love
+2025-01-03 18:10:20,519 - web_scraper - INFO - Translation successful: Against bureaucratic sadness in the works we love
+2025-01-03 18:10:20,521 - web_scraper - INFO - Translated title: Against bureaucratic sadness in the works we love
+2025-01-03 18:10:20,521 - web_scraper - INFO - Translated title: Against bureaucratic sadness in the works we love
+2025-01-03 18:10:20,523 - web_scraper - INFO - Translating title: ‘Bonanza (La Línea de la Concepción)’
+2025-01-03 18:10:20,523 - web_scraper - INFO - Translating title: ‘Bonanza (La Línea de la Concepción)’
+2025-01-03 18:10:20,741 - web_scraper - INFO - Translation successful: Against bureaucratic sadness in the works we love
+2025-01-03 18:10:20,741 - web_scraper - INFO - Translation successful: Against bureaucratic sadness in the works we love
+2025-01-03 18:10:20,745 - web_scraper - INFO - Translated title: Against bureaucratic sadness in the works we love
+2025-01-03 18:10:20,745 - web_scraper - INFO - Translated title: Against bureaucratic sadness in the works we love
+2025-01-03 18:10:20,749 - web_scraper - INFO - Translating title: ‘Bonanza (La Línea de la Concepción)’
+2025-01-03 18:10:20,749 - web_scraper - INFO - Translating title: ‘Bonanza (La Línea de la Concepción)’
+2025-01-03 18:10:20,807 - web_scraper - INFO - Translation successful: ‘Bonanza (the line of conception)’
+2025-01-03 18:10:20,807 - web_scraper - INFO - Translation successful: ‘Bonanza (the line of conception)’
+2025-01-03 18:10:20,824 - web_scraper - INFO - Translated title: ‘Bonanza (the line of conception)’
+2025-01-03 18:10:20,824 - web_scraper - INFO - Translated title: ‘Bonanza (the line of conception)’
+2025-01-03 18:10:20,827 - web_scraper - INFO - Analyzing translated titles...
+2025-01-03 18:10:20,827 - web_scraper - INFO - Analyzing translated titles...
+2025-01-03 18:10:20,833 - web_scraper - INFO - Saving data to JSON...
+2025-01-03 18:10:20,833 - web_scraper - INFO - Saving data to JSON...
+2025-01-03 18:10:21,048 - web_scraper - INFO - Translation successful: ‘Bonanza (the line of conception)’
+2025-01-03 18:10:21,048 - web_scraper - INFO - Translation successful: ‘Bonanza (the line of conception)’
+2025-01-03 18:10:21,054 - web_scraper - INFO - Translated title: ‘Bonanza (the line of conception)’
+2025-01-03 18:10:21,054 - web_scraper - INFO - Translated title: ‘Bonanza (the line of conception)’
+2025-01-03 18:10:21,057 - web_scraper - INFO - Analyzing translated titles...
+2025-01-03 18:10:21,057 - web_scraper - INFO - Analyzing translated titles...
+2025-01-03 18:10:21,060 - web_scraper - INFO - Saving data to JSON...
+2025-01-03 18:10:21,060 - web_scraper - INFO - Saving data to JSON...
+2025-01-03 18:10:24,022 - web_scraper - INFO - Translation successful: Less dependence on Russian gas
+2025-01-03 18:10:24,022 - web_scraper - INFO - Translation successful: Less dependence on Russian gas
+2025-01-03 18:10:24,026 - web_scraper - INFO - Translated title: Less dependence on Russian gas
+2025-01-03 18:10:24,026 - web_scraper - INFO - Translated title: Less dependence on Russian gas
+2025-01-03 18:10:24,029 - web_scraper - INFO - Translating title: El año de frenar la pesadilla del alquiler
+2025-01-03 18:10:24,029 - web_scraper - INFO - Translating title: El año de frenar la pesadilla del alquiler
+2025-01-03 18:10:24,287 - web_scraper - INFO - Translation successful: The year to stop the rental nightmare
+2025-01-03 18:10:24,287 - web_scraper - INFO - Translation successful: The year to stop the rental nightmare
+2025-01-03 18:10:24,290 - web_scraper - INFO - Translated title: The year to stop the rental nightmare
+2025-01-03 18:10:24,290 - web_scraper - INFO - Translated title: The year to stop the rental nightmare
+2025-01-03 18:10:24,293 - web_scraper - INFO - Translating title: El oro y la insolencia
+2025-01-03 18:10:24,293 - web_scraper - INFO - Translating title: El oro y la insolencia
+2025-01-03 18:10:24,704 - web_scraper - INFO - Translation successful: Gold and insolence
+2025-01-03 18:10:24,704 - web_scraper - INFO - Translation successful: Gold and insolence
+2025-01-03 18:10:24,706 - web_scraper - INFO - Translated title: Gold and insolence
+2025-01-03 18:10:24,706 - web_scraper - INFO - Translated title: Gold and insolence
+2025-01-03 18:10:24,707 - web_scraper - INFO - Translating title: Contra la tristeza burocrática en los trabajos que amamos
+2025-01-03 18:10:24,707 - web_scraper - INFO - Translating title: Contra la tristeza burocrática en los trabajos que amamos
+2025-01-03 18:10:25,015 - web_scraper - INFO - Translation successful: Against bureaucratic sadness in the works we love
+2025-01-03 18:10:25,015 - web_scraper - INFO - Translation successful: Against bureaucratic sadness in the works we love
+2025-01-03 18:10:25,020 - web_scraper - INFO - Translated title: Against bureaucratic sadness in the works we love
+2025-01-03 18:10:25,020 - web_scraper - INFO - Translated title: Against bureaucratic sadness in the works we love
+2025-01-03 18:10:25,023 - web_scraper - INFO - Translating title: ‘Bonanza (La Línea de la Concepción)’
+2025-01-03 18:10:25,023 - web_scraper - INFO - Translating title: ‘Bonanza (La Línea de la Concepción)’
+2025-01-03 18:10:26,636 - web_scraper - INFO - Translation successful: ‘Bonanza (the line of conception)’
+2025-01-03 18:10:26,636 - web_scraper - INFO - Translation successful: ‘Bonanza (the line of conception)’
+2025-01-03 18:10:26,640 - web_scraper - INFO - Translated title: ‘Bonanza (the line of conception)’
+2025-01-03 18:10:26,640 - web_scraper - INFO - Translated title: ‘Bonanza (the line of conception)’
+2025-01-03 18:10:26,642 - web_scraper - INFO - Analyzing translated titles...
+2025-01-03 18:10:26,642 - web_scraper - INFO - Analyzing translated titles...
+2025-01-03 18:10:26,644 - web_scraper - INFO - Saving data to JSON...
+2025-01-03 18:10:26,644 - web_scraper - INFO - Saving data to JSON...
+2025-01-03 18:10:26,788 - web_scraper - ERROR - Caught Exception: 'NoneType' object is not subscriptable
+2025-01-03 18:10:26,788 - web_scraper - ERROR - Caught Exception: 'NoneType' object is not subscriptable
+2025-01-03 18:10:28,503 - web_scraper - DEBUG - Hub url changed to the optimal hub: hub-aps.browserstack.com
+2025-01-03 18:10:28,503 - web_scraper - DEBUG - Hub url changed to the optimal hub: hub-aps.browserstack.com
+2025-01-03 18:10:28,505 - web_scraper - DEBUG - Session started with id: 84f06c118fa061f30ff9e7a415606b64a08054b9
+2025-01-03 18:10:28,505 - web_scraper - DEBUG - Session started with id: 84f06c118fa061f30ff9e7a415606b64a08054b9
+2025-01-03 18:10:28,506 - web_scraper - INFO - Scraping articles on OS X Safari...
+2025-01-03 18:10:28,506 - web_scraper - INFO - Scraping articles on OS X Safari...
+2025-01-03 18:10:29,558 - web_scraper - DEBUG - Hub url changed to the optimal hub: hub-aps.browserstack.com
+2025-01-03 18:10:29,558 - web_scraper - DEBUG - Hub url changed to the optimal hub: hub-aps.browserstack.com
+2025-01-03 18:10:29,560 - web_scraper - DEBUG - Session started with id: f3864c5a6c2c098700f7d50e2fbda51d631fdb02
+2025-01-03 18:10:29,560 - web_scraper - DEBUG - Session started with id: f3864c5a6c2c098700f7d50e2fbda51d631fdb02
+2025-01-03 18:10:29,561 - web_scraper - INFO - Scraping articles on Windows Firefox...
+2025-01-03 18:10:29,561 - web_scraper - INFO - Scraping articles on Windows Firefox...
+2025-01-03 18:10:35,502 - web_scraper - DEBUG - Hub url changed to the optimal hub: hub-aps.browserstack.com
+2025-01-03 18:10:35,502 - web_scraper - DEBUG - Hub url changed to the optimal hub: hub-aps.browserstack.com
+2025-01-03 18:10:35,503 - web_scraper - DEBUG - Session started with id: 80047558a30a7dc34902f071fc27488c8a16a642
+2025-01-03 18:10:35,503 - web_scraper - DEBUG - Session started with id: 80047558a30a7dc34902f071fc27488c8a16a642
+2025-01-03 18:10:35,504 - web_scraper - INFO - Scraping articles on OS X Safari...
+2025-01-03 18:10:35,504 - web_scraper - INFO - Scraping articles on OS X Safari...
+2025-01-03 18:10:37,595 - web_scraper - INFO - Translating title: Menos dependencia del gas ruso
+2025-01-03 18:10:37,595 - web_scraper - INFO - Translating title: Menos dependencia del gas ruso
+2025-01-03 18:10:37,900 - web_scraper - INFO - Translation successful: Less dependence on Russian gas
+2025-01-03 18:10:37,900 - web_scraper - INFO - Translation successful: Less dependence on Russian gas
+2025-01-03 18:10:37,904 - web_scraper - INFO - Translated title: Less dependence on Russian gas
+2025-01-03 18:10:37,904 - web_scraper - INFO - Translated title: Less dependence on Russian gas
+2025-01-03 18:10:37,905 - web_scraper - INFO - Translating title: El año de frenar la pesadilla del alquiler
+2025-01-03 18:10:37,905 - web_scraper - INFO - Translating title: El año de frenar la pesadilla del alquiler
+2025-01-03 18:10:38,354 - web_scraper - INFO - Translation successful: The year to stop the rental nightmare
+2025-01-03 18:10:38,354 - web_scraper - INFO - Translation successful: The year to stop the rental nightmare
+2025-01-03 18:10:38,357 - web_scraper - INFO - Translated title: The year to stop the rental nightmare
+2025-01-03 18:10:38,357 - web_scraper - INFO - Translated title: The year to stop the rental nightmare
+2025-01-03 18:10:38,358 - web_scraper - INFO - Translating title: El oro y la insolencia
+2025-01-03 18:10:38,358 - web_scraper - INFO - Translating title: El oro y la insolencia
+2025-01-03 18:10:38,634 - web_scraper - INFO - Translation successful: Gold and insolence
+2025-01-03 18:10:38,634 - web_scraper - INFO - Translation successful: Gold and insolence
+2025-01-03 18:10:38,637 - web_scraper - INFO - Translated title: Gold and insolence
+2025-01-03 18:10:38,637 - web_scraper - INFO - Translated title: Gold and insolence
+2025-01-03 18:10:38,639 - web_scraper - INFO - Translating title: Contra la tristeza burocrática en los trabajos que amamos
+2025-01-03 18:10:38,639 - web_scraper - INFO - Translating title: Contra la tristeza burocrática en los trabajos que amamos
+2025-01-03 18:10:38,962 - web_scraper - INFO - Translation successful: Against bureaucratic sadness in the works we love
+2025-01-03 18:10:38,962 - web_scraper - INFO - Translation successful: Against bureaucratic sadness in the works we love
+2025-01-03 18:10:38,967 - web_scraper - INFO - Translated title: Against bureaucratic sadness in the works we love
+2025-01-03 18:10:38,967 - web_scraper - INFO - Translated title: Against bureaucratic sadness in the works we love
+2025-01-03 18:10:38,969 - web_scraper - INFO - Translating title: ‘Bonanza (La Línea de la Concepción)’
+2025-01-03 18:10:38,969 - web_scraper - INFO - Translating title: ‘Bonanza (La Línea de la Concepción)’
+2025-01-03 18:10:39,269 - web_scraper - INFO - Translation successful: ‘Bonanza (the line of conception)’
+2025-01-03 18:10:39,269 - web_scraper - INFO - Translation successful: ‘Bonanza (the line of conception)’
+2025-01-03 18:10:39,273 - web_scraper - INFO - Translated title: ‘Bonanza (the line of conception)’
+2025-01-03 18:10:39,273 - web_scraper - INFO - Translated title: ‘Bonanza (the line of conception)’
+2025-01-03 18:10:39,275 - web_scraper - INFO - Analyzing translated titles...
+2025-01-03 18:10:39,275 - web_scraper - INFO - Analyzing translated titles...
+2025-01-03 18:10:39,278 - web_scraper - INFO - Saving data to JSON...
+2025-01-03 18:10:39,278 - web_scraper - INFO - Saving data to JSON...
+2025-01-03 18:10:43,560 - web_scraper - INFO - Translating title: Menos dependencia del gas ruso
+2025-01-03 18:10:43,560 - web_scraper - INFO - Translating title: Menos dependencia del gas ruso
+2025-01-03 18:10:43,845 - web_scraper - INFO - Translation successful: Less dependence on Russian gas
+2025-01-03 18:10:43,845 - web_scraper - INFO - Translation successful: Less dependence on Russian gas
+2025-01-03 18:10:43,850 - web_scraper - INFO - Translated title: Less dependence on Russian gas
+2025-01-03 18:10:43,850 - web_scraper - INFO - Translated title: Less dependence on Russian gas
+2025-01-03 18:10:43,852 - web_scraper - INFO - Translating title: El año de frenar la pesadilla del alquiler
+2025-01-03 18:10:43,852 - web_scraper - INFO - Translating title: El año de frenar la pesadilla del alquiler
+2025-01-03 18:10:44,460 - web_scraper - INFO - Translation successful: The year to stop the rental nightmare
+2025-01-03 18:10:44,460 - web_scraper - INFO - Translation successful: The year to stop the rental nightmare
+2025-01-03 18:10:44,463 - web_scraper - INFO - Translated title: The year to stop the rental nightmare
+2025-01-03 18:10:44,463 - web_scraper - INFO - Translated title: The year to stop the rental nightmare
+2025-01-03 18:10:44,467 - web_scraper - INFO - Translating title: El oro y la insolencia
+2025-01-03 18:10:44,467 - web_scraper - INFO - Translating title: El oro y la insolencia
+2025-01-03 18:10:44,772 - web_scraper - INFO - Translation successful: Gold and insolence
+2025-01-03 18:10:44,772 - web_scraper - INFO - Translation successful: Gold and insolence
+2025-01-03 18:10:44,775 - web_scraper - INFO - Translated title: Gold and insolence
+2025-01-03 18:10:44,775 - web_scraper - INFO - Translated title: Gold and insolence
+2025-01-03 18:10:44,778 - web_scraper - INFO - Translating title: Contra la tristeza burocrática en los trabajos que amamos
+2025-01-03 18:10:44,778 - web_scraper - INFO - Translating title: Contra la tristeza burocrática en los trabajos que amamos
+2025-01-03 18:10:45,197 - web_scraper - INFO - Translation successful: Against bureaucratic sadness in the works we love
+2025-01-03 18:10:45,197 - web_scraper - INFO - Translation successful: Against bureaucratic sadness in the works we love
+2025-01-03 18:10:45,202 - web_scraper - INFO - Translated title: Against bureaucratic sadness in the works we love
+2025-01-03 18:10:45,202 - web_scraper - INFO - Translated title: Against bureaucratic sadness in the works we love
+2025-01-03 18:10:45,205 - web_scraper - INFO - Translating title: ‘Bonanza (La Línea de la Concepción)’
+2025-01-03 18:10:45,205 - web_scraper - INFO - Translating title: ‘Bonanza (La Línea de la Concepción)’
+2025-01-03 18:10:45,493 - web_scraper - INFO - Translation successful: ‘Bonanza (the line of conception)’
+2025-01-03 18:10:45,493 - web_scraper - INFO - Translation successful: ‘Bonanza (the line of conception)’
+2025-01-03 18:10:45,498 - web_scraper - INFO - Translated title: ‘Bonanza (the line of conception)’
+2025-01-03 18:10:45,498 - web_scraper - INFO - Translated title: ‘Bonanza (the line of conception)’
+2025-01-03 18:10:45,503 - web_scraper - INFO - Analyzing translated titles...
+2025-01-03 18:10:45,503 - web_scraper - INFO - Analyzing translated titles...
+2025-01-03 18:10:45,506 - web_scraper - INFO - Saving data to JSON...
+2025-01-03 18:10:45,506 - web_scraper - INFO - Saving data to JSON...
+2025-01-03 18:10:45,553 - web_scraper - ERROR - Caught Exception: 'NoneType' object is not subscriptable
+2025-01-03 18:10:45,553 - web_scraper - ERROR - Caught Exception: 'NoneType' object is not subscriptable
+2025-01-03 18:10:47,984 - web_scraper - INFO - Translating title: Menos dependencia del gas ruso
+2025-01-03 18:10:47,984 - web_scraper - INFO - Translating title: Menos dependencia del gas ruso
+2025-01-03 18:10:48,340 - web_scraper - INFO - Translation successful: Less dependence on Russian gas
+2025-01-03 18:10:48,340 - web_scraper - INFO - Translation successful: Less dependence on Russian gas
+2025-01-03 18:10:48,343 - web_scraper - INFO - Translated title: Less dependence on Russian gas
+2025-01-03 18:10:48,343 - web_scraper - INFO - Translated title: Less dependence on Russian gas
+2025-01-03 18:10:48,345 - web_scraper - INFO - Translating title: El año de frenar la pesadilla del alquiler
+2025-01-03 18:10:48,345 - web_scraper - INFO - Translating title: El año de frenar la pesadilla del alquiler
+2025-01-03 18:10:48,652 - web_scraper - INFO - Translation successful: The year to stop the rental nightmare
+2025-01-03 18:10:48,652 - web_scraper - INFO - Translation successful: The year to stop the rental nightmare
+2025-01-03 18:10:48,654 - web_scraper - INFO - Translated title: The year to stop the rental nightmare
+2025-01-03 18:10:48,654 - web_scraper - INFO - Translated title: The year to stop the rental nightmare
+2025-01-03 18:10:48,656 - web_scraper - INFO - Translating title: El oro y la insolencia
+2025-01-03 18:10:48,656 - web_scraper - INFO - Translating title: El oro y la insolencia
+2025-01-03 18:10:49,042 - web_scraper - INFO - Translation successful: Gold and insolence
+2025-01-03 18:10:49,042 - web_scraper - INFO - Translation successful: Gold and insolence
+2025-01-03 18:10:49,045 - web_scraper - INFO - Translated title: Gold and insolence
+2025-01-03 18:10:49,045 - web_scraper - INFO - Translated title: Gold and insolence
+2025-01-03 18:10:49,047 - web_scraper - INFO - Translating title: Contra la tristeza burocrática en los trabajos que amamos
+2025-01-03 18:10:49,047 - web_scraper - INFO - Translating title: Contra la tristeza burocrática en los trabajos que amamos
+2025-01-03 18:10:49,447 - web_scraper - INFO - Translation successful: Against bureaucratic sadness in the works we love
+2025-01-03 18:10:49,447 - web_scraper - INFO - Translation successful: Against bureaucratic sadness in the works we love
+2025-01-03 18:10:49,452 - web_scraper - INFO - Translated title: Against bureaucratic sadness in the works we love
+2025-01-03 18:10:49,452 - web_scraper - INFO - Translated title: Against bureaucratic sadness in the works we love
+2025-01-03 18:10:49,455 - web_scraper - INFO - Translating title: ‘Bonanza (La Línea de la Concepción)’
+2025-01-03 18:10:49,455 - web_scraper - INFO - Translating title: ‘Bonanza (La Línea de la Concepción)’
+2025-01-03 18:10:49,757 - web_scraper - INFO - Translation successful: ‘Bonanza (the line of conception)’
+2025-01-03 18:10:49,757 - web_scraper - INFO - Translation successful: ‘Bonanza (the line of conception)’
+2025-01-03 18:10:49,760 - web_scraper - INFO - Translated title: ‘Bonanza (the line of conception)’
+2025-01-03 18:10:49,760 - web_scraper - INFO - Translated title: ‘Bonanza (the line of conception)’
+2025-01-03 18:10:49,764 - web_scraper - INFO - Analyzing translated titles...
+2025-01-03 18:10:49,764 - web_scraper - INFO - Analyzing translated titles...
+2025-01-03 18:10:49,767 - web_scraper - INFO - Saving data to JSON...
+2025-01-03 18:10:49,767 - web_scraper - INFO - Saving data to JSON...
+2025-01-03 18:10:49,803 - web_scraper - ERROR - Caught Exception: 'NoneType' object is not subscriptable
+2025-01-03 18:10:49,803 - web_scraper - ERROR - Caught Exception: 'NoneType' object is not subscriptable
+2025-01-03 18:10:57,066 - web_scraper - DEBUG - Hub url changed to the optimal hub: hub-aps.browserstack.com
+2025-01-03 18:10:57,066 - web_scraper - DEBUG - Hub url changed to the optimal hub: hub-aps.browserstack.com
+2025-01-03 18:10:57,067 - web_scraper - DEBUG - Session started with id: 0bddc256598bb0fca93e7c088757589bfad4dfd3
+2025-01-03 18:10:57,067 - web_scraper - DEBUG - Session started with id: 0bddc256598bb0fca93e7c088757589bfad4dfd3
+2025-01-03 18:10:57,068 - web_scraper - INFO - Scraping articles on Windows Firefox...
+2025-01-03 18:10:57,068 - web_scraper - INFO - Scraping articles on Windows Firefox...
+2025-01-03 18:10:57,512 - web_scraper - DEBUG - Hub url changed to the optimal hub: hub-aps.browserstack.com
+2025-01-03 18:10:57,512 - web_scraper - DEBUG - Hub url changed to the optimal hub: hub-aps.browserstack.com
+2025-01-03 18:10:57,515 - web_scraper - DEBUG - Session started with id: 05be98a1e87c149ced62f8c2bf74c20014244e85
+2025-01-03 18:10:57,515 - web_scraper - DEBUG - Session started with id: 05be98a1e87c149ced62f8c2bf74c20014244e85
+2025-01-03 18:10:57,517 - web_scraper - INFO - Scraping articles on Windows Firefox...
+2025-01-03 18:10:57,517 - web_scraper - INFO - Scraping articles on Windows Firefox...
+2025-01-03 18:10:57,776 - web_scraper - INFO - Translating title: Menos dependencia del gas ruso
+2025-01-03 18:10:57,776 - web_scraper - INFO - Translating title: Menos dependencia del gas ruso
+2025-01-03 18:10:58,108 - web_scraper - INFO - Translation successful: Less dependence on Russian gas
+2025-01-03 18:10:58,108 - web_scraper - INFO - Translation successful: Less dependence on Russian gas
+2025-01-03 18:10:58,111 - web_scraper - INFO - Translated title: Less dependence on Russian gas
+2025-01-03 18:10:58,111 - web_scraper - INFO - Translated title: Less dependence on Russian gas
+2025-01-03 18:10:58,115 - web_scraper - INFO - Translating title: El año de frenar la pesadilla del alquiler
+2025-01-03 18:10:58,115 - web_scraper - INFO - Translating title: El año de frenar la pesadilla del alquiler
+2025-01-03 18:10:58,397 - web_scraper - INFO - Translation successful: The year to stop the rental nightmare
+2025-01-03 18:10:58,397 - web_scraper - INFO - Translation successful: The year to stop the rental nightmare
+2025-01-03 18:10:58,402 - web_scraper - INFO - Translated title: The year to stop the rental nightmare
+2025-01-03 18:10:58,402 - web_scraper - INFO - Translated title: The year to stop the rental nightmare
+2025-01-03 18:10:58,405 - web_scraper - INFO - Translating title: El oro y la insolencia
+2025-01-03 18:10:58,405 - web_scraper - INFO - Translating title: El oro y la insolencia
+2025-01-03 18:10:58,966 - web_scraper - INFO - Translation successful: Gold and insolence
+2025-01-03 18:10:58,966 - web_scraper - INFO - Translation successful: Gold and insolence
+2025-01-03 18:10:58,969 - web_scraper - INFO - Translated title: Gold and insolence
+2025-01-03 18:10:58,969 - web_scraper - INFO - Translated title: Gold and insolence
+2025-01-03 18:10:58,970 - web_scraper - INFO - Translating title: Contra la tristeza burocrática en los trabajos que amamos
+2025-01-03 18:10:58,970 - web_scraper - INFO - Translating title: Contra la tristeza burocrática en los trabajos que amamos
+2025-01-03 18:10:59,253 - web_scraper - INFO - Translation successful: Against bureaucratic sadness in the works we love
+2025-01-03 18:10:59,253 - web_scraper - INFO - Translation successful: Against bureaucratic sadness in the works we love
+2025-01-03 18:10:59,256 - web_scraper - INFO - Translated title: Against bureaucratic sadness in the works we love
+2025-01-03 18:10:59,256 - web_scraper - INFO - Translated title: Against bureaucratic sadness in the works we love
+2025-01-03 18:10:59,258 - web_scraper - INFO - Translating title: ‘Bonanza (La Línea de la Concepción)’
+2025-01-03 18:10:59,258 - web_scraper - INFO - Translating title: ‘Bonanza (La Línea de la Concepción)’
+2025-01-03 18:10:59,557 - web_scraper - INFO - Translation successful: ‘Bonanza (the line of conception)’
+2025-01-03 18:10:59,557 - web_scraper - INFO - Translation successful: ‘Bonanza (the line of conception)’
+2025-01-03 18:10:59,560 - web_scraper - INFO - Translated title: ‘Bonanza (the line of conception)’
+2025-01-03 18:10:59,560 - web_scraper - INFO - Translated title: ‘Bonanza (the line of conception)’
+2025-01-03 18:10:59,565 - web_scraper - INFO - Analyzing translated titles...
+2025-01-03 18:10:59,565 - web_scraper - INFO - Analyzing translated titles...
+2025-01-03 18:10:59,568 - web_scraper - INFO - Saving data to JSON...
+2025-01-03 18:10:59,568 - web_scraper - INFO - Saving data to JSON...
+2025-01-03 18:11:17,824 - web_scraper - INFO - Translating title: Menos dependencia del gas ruso
+2025-01-03 18:11:17,824 - web_scraper - INFO - Translating title: Menos dependencia del gas ruso
+2025-01-03 18:11:18,188 - web_scraper - INFO - Translation successful: Less dependence on Russian gas
+2025-01-03 18:11:18,188 - web_scraper - INFO - Translation successful: Less dependence on Russian gas
+2025-01-03 18:11:18,191 - web_scraper - INFO - Translated title: Less dependence on Russian gas
+2025-01-03 18:11:18,191 - web_scraper - INFO - Translated title: Less dependence on Russian gas
+2025-01-03 18:11:18,193 - web_scraper - INFO - Translating title: El año de frenar la pesadilla del alquiler
+2025-01-03 18:11:18,193 - web_scraper - INFO - Translating title: El año de frenar la pesadilla del alquiler
+2025-01-03 18:11:18,585 - web_scraper - INFO - Translation successful: The year to stop the rental nightmare
+2025-01-03 18:11:18,585 - web_scraper - INFO - Translation successful: The year to stop the rental nightmare
+2025-01-03 18:11:18,589 - web_scraper - INFO - Translated title: The year to stop the rental nightmare
+2025-01-03 18:11:18,589 - web_scraper - INFO - Translated title: The year to stop the rental nightmare
+2025-01-03 18:11:18,592 - web_scraper - INFO - Translating title: El oro y la insolencia
+2025-01-03 18:11:18,592 - web_scraper - INFO - Translating title: El oro y la insolencia
+2025-01-03 18:11:19,099 - web_scraper - INFO - Translation successful: Gold and insolence
+2025-01-03 18:11:19,099 - web_scraper - INFO - Translation successful: Gold and insolence
+2025-01-03 18:11:19,100 - web_scraper - INFO - Translated title: Gold and insolence
+2025-01-03 18:11:19,100 - web_scraper - INFO - Translated title: Gold and insolence
+2025-01-03 18:11:19,102 - web_scraper - INFO - Translating title: Contra la tristeza burocrática en los trabajos que amamos
+2025-01-03 18:11:19,102 - web_scraper - INFO - Translating title: Contra la tristeza burocrática en los trabajos que amamos
+2025-01-03 18:11:19,620 - web_scraper - INFO - Translation successful: Against bureaucratic sadness in the works we love
+2025-01-03 18:11:19,620 - web_scraper - INFO - Translation successful: Against bureaucratic sadness in the works we love
+2025-01-03 18:11:19,625 - web_scraper - INFO - Translated title: Against bureaucratic sadness in the works we love
+2025-01-03 18:11:19,625 - web_scraper - INFO - Translated title: Against bureaucratic sadness in the works we love
+2025-01-03 18:11:19,629 - web_scraper - INFO - Translating title: ‘Bonanza (La Línea de la Concepción)’
+2025-01-03 18:11:19,629 - web_scraper - INFO - Translating title: ‘Bonanza (La Línea de la Concepción)’
+2025-01-03 18:11:20,062 - web_scraper - INFO - Translation successful: ‘Bonanza (the line of conception)’
+2025-01-03 18:11:20,062 - web_scraper - INFO - Translation successful: ‘Bonanza (the line of conception)’
+2025-01-03 18:11:20,066 - web_scraper - INFO - Translated title: ‘Bonanza (the line of conception)’
+2025-01-03 18:11:20,066 - web_scraper - INFO - Translated title: ‘Bonanza (the line of conception)’
+2025-01-03 18:11:20,067 - web_scraper - INFO - Analyzing translated titles...
+2025-01-03 18:11:20,067 - web_scraper - INFO - Analyzing translated titles...
+2025-01-03 18:11:20,069 - web_scraper - INFO - Saving data to JSON...
+2025-01-03 18:11:20,069 - web_scraper - INFO - Saving data to JSON...
+2025-01-03 18:11:20,194 - web_scraper - ERROR - Caught Exception: 'NoneType' object is not subscriptable
+2025-01-03 18:11:20,194 - web_scraper - ERROR - Caught Exception: 'NoneType' object is not subscriptable
+2025-01-03 18:11:33,471 - web_scraper - INFO - Analyzing translated titles...
+2025-01-03 18:11:33,471 - web_scraper - INFO - Analyzing translated titles...
+2025-01-03 18:11:33,474 - web_scraper - INFO - Saving data to JSON...
+2025-01-03 18:11:33,474 - web_scraper - INFO - Saving data to JSON...
+2025-01-03 18:12:25,452 - web_scraper - INFO - Analyzing translated titles...
+2025-01-03 18:12:25,452 - web_scraper - INFO - Analyzing translated titles...
+2025-01-03 18:12:25,455 - web_scraper - INFO - Saving data to JSON...
+2025-01-03 18:12:25,455 - web_scraper - INFO - Saving data to JSON...
+2025-01-03 18:12:25,502 - web_scraper - ERROR - Caught Exception: 'NoneType' object is not subscriptable
+2025-01-03 18:12:25,502 - web_scraper - ERROR - Caught Exception: 'NoneType' object is not subscriptable
+2025-01-03 18:16:08,766 - web_scraper - INFO - Starting web scraping project...
+2025-01-03 18:16:08,766 - web_scraper - INFO - Starting web scraping project...
+2025-01-03 18:16:18,705 - web_scraper - INFO - Scraping articles locally...
+2025-01-03 18:16:18,705 - web_scraper - INFO - Scraping articles locally...
+2025-01-03 18:16:52,390 - web_scraper - INFO - Translating title: Menos dependencia del gas ruso
+2025-01-03 18:16:52,390 - web_scraper - INFO - Translating title: Menos dependencia del gas ruso
+2025-01-03 18:16:53,291 - web_scraper - INFO - Translation successful: Less dependence on Russian gas
+2025-01-03 18:16:53,291 - web_scraper - INFO - Translation successful: Less dependence on Russian gas
+2025-01-03 18:16:53,296 - web_scraper - INFO - Translated title: Less dependence on Russian gas
+2025-01-03 18:16:53,296 - web_scraper - INFO - Translated title: Less dependence on Russian gas
+2025-01-03 18:16:53,298 - web_scraper - INFO - Translating title: El año de frenar la pesadilla del alquiler
+2025-01-03 18:16:53,298 - web_scraper - INFO - Translating title: El año de frenar la pesadilla del alquiler
+2025-01-03 18:16:53,721 - web_scraper - INFO - Translation successful: The year to stop the rental nightmare
+2025-01-03 18:16:53,721 - web_scraper - INFO - Translation successful: The year to stop the rental nightmare
+2025-01-03 18:16:53,725 - web_scraper - INFO - Translated title: The year to stop the rental nightmare
+2025-01-03 18:16:53,725 - web_scraper - INFO - Translated title: The year to stop the rental nightmare
+2025-01-03 18:16:53,728 - web_scraper - INFO - Translating title: El oro y la insolencia
+2025-01-03 18:16:53,728 - web_scraper - INFO - Translating title: El oro y la insolencia
+2025-01-03 18:16:54,149 - web_scraper - INFO - Translation successful: Gold and insolence
+2025-01-03 18:16:54,149 - web_scraper - INFO - Translation successful: Gold and insolence
+2025-01-03 18:16:54,152 - web_scraper - INFO - Translated title: Gold and insolence
+2025-01-03 18:16:54,152 - web_scraper - INFO - Translated title: Gold and insolence
+2025-01-03 18:16:54,154 - web_scraper - INFO - Translating title: Contra la tristeza burocrática en los trabajos que amamos
+2025-01-03 18:16:54,154 - web_scraper - INFO - Translating title: Contra la tristeza burocrática en los trabajos que amamos
+2025-01-03 18:16:54,499 - web_scraper - INFO - Translation successful: Against bureaucratic sadness in the works we love
+2025-01-03 18:16:54,499 - web_scraper - INFO - Translation successful: Against bureaucratic sadness in the works we love
+2025-01-03 18:16:54,503 - web_scraper - INFO - Translated title: Against bureaucratic sadness in the works we love
+2025-01-03 18:16:54,503 - web_scraper - INFO - Translated title: Against bureaucratic sadness in the works we love
+2025-01-03 18:16:54,505 - web_scraper - INFO - Translating title: ‘Bonanza (La Línea de la Concepción)’
+2025-01-03 18:16:54,505 - web_scraper - INFO - Translating title: ‘Bonanza (La Línea de la Concepción)’
+2025-01-03 18:16:54,772 - web_scraper - INFO - Translation successful: ‘Bonanza (the line of conception)’
+2025-01-03 18:16:54,772 - web_scraper - INFO - Translation successful: ‘Bonanza (the line of conception)’
+2025-01-03 18:16:54,775 - web_scraper - INFO - Translated title: ‘Bonanza (the line of conception)’
+2025-01-03 18:16:54,775 - web_scraper - INFO - Translated title: ‘Bonanza (the line of conception)’
+2025-01-03 18:16:54,777 - web_scraper - INFO - Analyzing translated titles...
+2025-01-03 18:16:54,777 - web_scraper - INFO - Analyzing translated titles...
+2025-01-03 18:16:54,780 - web_scraper - INFO - Saving data to JSON...
+2025-01-03 18:16:54,780 - web_scraper - INFO - Saving data to JSON...

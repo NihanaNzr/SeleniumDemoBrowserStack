@@ -4,7 +4,6 @@ from selenium.webdriver.chrome.service import Service
 from src.scraper import scrape_articles
 from src.translator import translate_rapidapi
 from src.analyzer import analyze_headers
-from src.browserstack import run_on_browserstack
 from utils.logger import setup_logger
 from utils.json_saver import save_to_json
 from src.translator import translate_rapidapi
