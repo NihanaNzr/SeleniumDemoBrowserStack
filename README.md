@@ -7,7 +7,7 @@ This project scrapes articles, translates the article titles using the RapidAPI 
 2. [Prerequisites](#prerequisites)
 3. [Installation](#installation)
 4. [Configuration](#configuration)
-5. [Usage](#usage)
+5. [Running Tests Locally ](#Running Tests Locally)
 6. [Running Tests on BrowserStack](#running-tests-on-browserstack)
 7. [Project Structure](#project-structure)
 8. [Contributing](#contributing)
@@ -59,7 +59,7 @@ This project uses the RapidAPI translation service. To integrate this:
   RAPIDAPI_KEY = 'your-rapidapi-key'
   RAPIDAPI_HOST = 'rapid-translate-multi-traduction.p.rapidapi.com'
    ```
-1.**Setting Up BrowserStack Credentials**
+2.**Setting Up BrowserStack Credentials**
 
 For Windows Command Prompt:
 
@@ -74,5 +74,95 @@ For macOS or Linux:
   export BROWSERSTACK_ACCESS_KEY="your_browserstack_access_key"
 ```
 
-2. **Install the BrowserStack SDK**
+3. **BrowserStack Configuration (Optional)**
+   You can configure the desired browsers and devices in the browserstack.yml file to specify the environment for running tests.
    
+## Running Tests Locally
+
+1.**Run the Main Script Locally**
+To run the project and perform scraping, translation, and data analysis, execute:
+
+```bash
+  python main.py
+```
+This will scrape articles, translate the titles, analyze repeated words, and save the results in data/output_data.json.
+
+2. **Check the Output**
+   The results of the scraping, translation, and analysis will be saved in the data/output_data.json file. The log of the process will be available in the web_scraper.log file.
+
+## Running Tests on BrowserStack
+
+1.**Execute the Test Script**
+  To run the tests on BrowserStack using different browsers and configurations, execute the following command:
+  ```bash
+    python test_script.py
+  ```
+
+2.**Test Results**
+  After running the tests, you can view the results on the BrowserStack dashboard, which will include logs, error messages, and video recordings of the test sessions.
+
+## Project Structure
+```plaintext
+article_image/          # Directory to store article images
+data/                   # Directory to store output JSON file
+├── src/
+│   ├── __init__.py
+│   ├── scraper.py      # Web scraping logic
+│   ├── translator.py   # Translation functionality
+│   ├── analyzer.py     # Text analysis (finding repeated words)
+├── utils/
+│   ├── constants.py    # Stores API keys and other constants
+│   ├── downloader.py   # Image downloader utility
+│   ├── logger.py       # Logger setup
+│   └── json_saver.py   # Saves results to JSON
+├── requirements.txt    # List of dependencies
+├── README.md           # This README file
+├── main.py             # Main entry point for the application
+├── browserstack.yml    # BrowserStack configuration
+├── test_script.py      # Script to run parallel tests on BrowserStack
+└── web_scraper.log     # Log file for tracking process
+```
+
+## Getting Started
+
+### Prerequisites
+- Python 3.7+
+- Install dependencies using:
+  ```bash
+  pip install -r requirements.txt
+  ```
+
+### Configuration
+1. Set up API keys and other constants in `utils/constants.py`.
+2. Configure BrowserStack credentials in `browserstack.yml`.
+
+### Running the Application
+To execute the main script:
+```bash
+python main.py
+```
+
+### Running Tests
+To run parallel tests on BrowserStack:
+```bash
+python test_script.py
+```
+
+## Features
+- **Web Scraping**: Extracts data from target websites.
+- **Translation**: Translates extracted content into desired languages.
+- **Text Analysis**: Identifies repeated words for insights.
+- **Image Handling**: Downloads and stores images.
+- **JSON Export**: Saves processed data into structured JSON files.
+
+## Logs
+All operations and errors are logged into `web_scraper.log` for easy debugging and monitoring.
+
+
+
+## License
+This project is licensed under the MIT License.
+
+## Contact
+For further inquiries or support, please contact [Nihana Nizar/nihananizar17@gmail.com].
+
